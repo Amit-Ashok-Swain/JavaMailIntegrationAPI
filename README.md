@@ -101,7 +101,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 <!-- Acknowledgments -->
 ## Acknowledgments
-Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
+Thank you to the Maven and Java communities for providing excellent tools and resources.
 
 <!-- Contact -->
 ## Contact
